@@ -1,0 +1,16 @@
+zadanie 1
+Napisz program który będzie wczytywał z pliku słownik a następnie
+zacznie odpytywać użytkownika ze znajomości słówek. W przypadku pomyłki program 
+pokaże odpowiednią odpowiedź.
+
+zadanie 2
+ Napisz program , który zamieni liczbę podaną przez 
+użytkownika zapisaną słownie (z zakresu od 1 do 59) na odpowiadającą 
+jej liczbę podaną w formie numerycznej.
+
+zad 3
+Napisz program który będzie pomagał użytkownikowi stworzyć słownik.
+Program pobierze informację ile haseł będzie wprowadzone.
+następnie będzie pobierał polskie wyrazi i ich angielskie tłumaczenia.
+Wszystkie hasła z tłumaczeniami zostaną zapisana na dysku w postaci pliku.
+
